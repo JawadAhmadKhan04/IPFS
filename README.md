@@ -31,5 +31,5 @@ The IPFS project is designed to simulate a distributed file storage system inspi
 Navigate to the project directory and use the following command to compile the project:
 g++ -o ipfs main.cpp RoutingMachine.cpp hashing.cpp B-Trees.cpp -lcryptopp
 
-## Executing the Project
+### Executing the Project
 ./ipfs
